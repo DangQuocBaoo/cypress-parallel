@@ -8,3 +8,5 @@ workflows:
           yarn: true
           store_artifacts: true
           record: true
+          parallel: true
+          parallazism: 4
