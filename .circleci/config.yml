@@ -10,4 +10,4 @@ workflows:
             - cypress/install
           record: true
           parallel: true
-          parallelism: 4
+          parallezism: 1
